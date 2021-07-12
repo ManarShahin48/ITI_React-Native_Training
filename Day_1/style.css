@@ -1,0 +1,19 @@
+.h1{
+    color: red;
+    font-size: bold;
+}
+
+h3{
+    font-size: bold;
+}
+
+.tasks{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: bold;
+}
+
+.form{
+    width: 200px;
+    height: 20px;
+    merge: 20px;
+}
