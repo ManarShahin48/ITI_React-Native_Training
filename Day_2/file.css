@@ -1,0 +1,40 @@
+p{
+    color: aqua;
+}
+
+.pr1, .sep{
+    color:red;
+}
+
+.pr2{
+    color: blue;
+}
+
+div{
+    color: aqua;
+}
+
+div .pdiv{
+    color: blue;
+} 
+
+/* div:first-of-type(1){
+    color: blue;
+} */
+
+.div1{
+    width: 200px;
+    height: 20px;
+    border: 3px grey solid;
+    background-color: black;
+    float:left;
+}
+
+.div2, .div3{
+    width: 200px;
+    height: 20px;
+    border: 3px grey solid;
+    background-color:white;
+    float:left;
+}
+
