@@ -1,0 +1,50 @@
+body{
+    padding: 0;
+}
+.container{
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center;
+}
+.havor{
+    width: 400px; 
+    height: 140px; 
+    border: 3px solid red;
+    background-color: black;
+    margin-top: 12px;
+    margin-left: 530px;
+    margin-bottom: 10px;
+    text-align: center;
+
+}
+
+.google:hover {
+    background-color: red;
+}
+.css:hover {
+    background-color: red;
+}
+.W3:hover {
+    background-color: red;
+}
+
+
+
+.pic{
+    padding: 0;
+    width: 1520px; 
+    height: 340px;
+    background-image: url("img.jpg");
+    
+}
+
+h1 ,p{
+    margin-top: 60px;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+/* .google{
+    background-color: tomato;
+} */
